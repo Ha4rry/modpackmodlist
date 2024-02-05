@@ -1,0 +1,22 @@
+ul {
+    font-size:1rem;
+}
+
+
+.disabled {
+    text-decoration: line-through;
+    pointer-events: none;
+}
+
+
+.redScary {
+    color:red;
+    font-weight: bold;
+}
+
+.dateText {
+    color:#9e9e9e;
+    font-size:1.5rem;
+    text-decoration: underline;
+}
+
