@@ -20,3 +20,8 @@ ul {
     text-decoration: underline;
 }
 
+img {
+    border-style: solid;
+    border-color: aqua;
+}
+
